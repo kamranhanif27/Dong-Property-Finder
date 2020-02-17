@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "995385677691",
+    "firebase_url": "https://dong-a059f.firebaseio.com",
+    "project_id": "dong-a059f",
+    "storage_bucket": "dong-a059f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995385677691:android:0015e8eeb1441a991f0fde",
+        "android_client_info": {
+          "package_name": "kamran.dong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995385677691-hkg2gvrgtkrela5tb0k6bd0argk9dgt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kamran.dong",
+            "certificate_hash": "ad1a5e9b55dca2a5e098bc76965f60b407b6ed16"
+          }
+        },
+        {
+          "client_id": "995385677691-bkirpeq5pormp193ju47aauupe37as0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kamran.dong",
+            "certificate_hash": "5287bfbf7dea3c18c675c64dfad879408da262bd"
+          }
+        },
+        {
+          "client_id": "995385677691-r1i3ccgauqgm6l26n4fqqigmdfuahvmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kamran.dong",
+            "certificate_hash": "1b4bf0c13d9bce5087afdf3c6e814989849cce7b"
+          }
+        },
+        {
+          "client_id": "995385677691-2lkbeavhnqukho4m5jhsg7grq3gd6k5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-9h6eXZRJXIstM1wutGKO_DwnlVNGB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995385677691-2lkbeavhnqukho4m5jhsg7grq3gd6k5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

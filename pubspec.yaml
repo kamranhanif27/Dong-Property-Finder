@@ -1,0 +1,43 @@
+name: Dong
+description: Property Finder App
+version: 1.1.1+2
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.5.0
+  http: ^0.12.0+2
+  carousel_pro: ^1.0.0
+  url_launcher: 4.1.0+1
+  image_picker:
+  firebase_auth: ^0.14.0+5
+  dio:
+  path: 1.6.2
+  shared_preferences:
+  connectivity:
+  fluttertoast:
+  firebase_admob:
+  admob_flutter: 0.2.0
+  flutter_swiper:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/image/img.jpg
+    - assets/image/image-placeholder.jpg
+  fonts:
+    - family: Iran Sans
+      fonts:
+        - asset: assets/fonts/iransans.ttf
+    - family: Far Diplomat
+      fonts:
+        - asset: assets/fonts/Far_Diplomat.ttf
